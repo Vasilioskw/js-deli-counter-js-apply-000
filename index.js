@@ -23,4 +23,6 @@ return "There is nobody waiting to be served!"
 } else { 
   var name = x{[0]
   x.splice (0,1)
-  return "currently serving" + name + "."
+  return "currently serving" + name + ".";
+  }
+}
