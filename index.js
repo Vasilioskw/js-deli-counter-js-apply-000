@@ -18,11 +18,11 @@ function currentLine(NewLine) {
     }
 }
 function nowserving(x)
-var x = 0
+if var x = 0
 return "There is nobody waiting to be served!"
 } else { 
   var name = x{[0]
   x.splice (0,1)
-  return "currently serving" + name + ".";
+  return "Currently serving" + name + ".";
   }
 }
