@@ -18,4 +18,5 @@ function currentLine(NewLine) {
     }
 }
 function nowserving(x)
-
+if var x = 0
+return ""
