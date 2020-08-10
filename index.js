@@ -18,7 +18,7 @@ function currentLine(NewLine) {
     }
 }
 function nowserving(x) {
-if var x = 0 {
+if x.length === 0 {
 return "There is nobody waiting to be served!"
 } else { 
   var name = x{[0]
