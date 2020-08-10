@@ -17,8 +17,8 @@ function currentLine(NewLine) {
       return "The line is currently: " + line
     }
 }
-function nowserving(x)
-if var x = 0
+function nowserving(x) {
+if var x = 0 {
 return "There is nobody waiting to be served!"
 } else { 
   var name = x{[0]
